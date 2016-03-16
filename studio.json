@@ -1,0 +1,6 @@
+{
+    "packages": {
+        "/": "linkmaker",
+        "linkmaker/paperboy": "linkmaker/paperboy"
+    }
+}

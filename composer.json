@@ -1,0 +1,7 @@
+{
+    "require": {
+    },
+    "require-dev": {
+        "franzl/studio": "^0.9.5"
+    }
+}
