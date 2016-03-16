@@ -1,6 +1,6 @@
-<?php namespace Linkmaker\Paperboy;
+<?php namespace Linkmaker\Paperboy\Transports;
 
-use Linkmaker\Paperboy;
+use Linkmaker\Paperboy\PaperboyInterface;
 
 class Mailgun implements PaperboyInterface
 {
@@ -13,5 +13,10 @@ class Mailgun implements PaperboyInterface
     public function queue()
     {
         // TODO: Implement queue() method.
+    }
+
+    public function bar()
+    {
+
     }
 }
